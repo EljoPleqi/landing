@@ -1,0 +1,34 @@
+.benefits {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 1rem;
+  overflow: hidden;
+}
+
+.benefits h2 {
+  font-size: 3rem;
+}
+.benefits-content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.benefit {
+  width: 25rem;
+}
+
+.benefit h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.benefits-img {
+  width: 100%;
+  height: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}

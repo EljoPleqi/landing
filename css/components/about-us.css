@@ -1,0 +1,27 @@
+.about-us {
+  display: flex;
+  padding: 2rem 1rem;
+  gap: 2rem;
+}
+
+.about-us-img {
+  height: 30rem;
+}
+.about-us-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.about-us-content h2 {
+  font-size: 3rem;
+}
+
+.about-us-content p {
+  line-height: 1.8rem;
+}
+
+.accent-text {
+  font-size: 3rem;
+  color: #f07167;
+}
